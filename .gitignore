@@ -1,0 +1,20 @@
+# Node modules
+/node_modules/
+
+# Fichiers de log
+*.log
+
+# Fichiers de configuration IDE
+/.vscode/
+/.idea/
+
+/.DS_Store # Pour MacOS
+Thumbs.db # Pour Windows
+
+# Fichiers de build (pour frontend ou backend)
+build/
+dist/
+
+# Fichiers de configuration des éditeurs de texte
+*.sublime-workspace
+*.sublime-project
